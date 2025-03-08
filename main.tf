@@ -15,3 +15,5 @@ resource "azurerm_storage_account" "example" {
   account_replication_type = "LRS"
 }
 
+
+
